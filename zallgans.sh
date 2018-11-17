@@ -25,7 +25,7 @@ echo -u "######################################################"
 echo -b " TOOLS MULTI FUNGSI TERMUX $green " |lolcat
 echo -b " CODED BY R4D3N G0Z4LL $green " |lolcat
 echo -b " FIND ME ON FB : Raden Gozal $green " |lolcat
-echo -b " Baku Hantam Crew - Islamic Cyber Team - C45P3R TEAMM $green " |lolcat
+echo -b " Baku Hantam Crew - Islamic Cyber Team - C45P3R TEAM $green " |lolcat
 echo -u "#######################################################"
 
 
